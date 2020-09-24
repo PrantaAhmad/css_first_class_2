@@ -1,0 +1,22 @@
+header{background-color: aqua;
+text-align: center;
+}
+article{
+    background-color: burlywood;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+aside{
+    background-color: coral;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+.article-section{
+}
+footer{
+    background-color: darkcyan;
+text-align: center;}
